@@ -1,0 +1,11 @@
+Model Information:
+* title:	JASDF F-2A Low Poly model
+* source:	https://sketchfab.com/3d-models/jasdf-f-2a-low-poly-model-e91124b750b74223bd5cb18d03a254cb
+* author:	Yi Tsung Lee (https://sketchfab.com/WTigerTw)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "JASDF F-2A Low Poly model" (https://sketchfab.com/3d-models/jasdf-f-2a-low-poly-model-e91124b750b74223bd5cb18d03a254cb) by Yi Tsung Lee (https://sketchfab.com/WTigerTw) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
